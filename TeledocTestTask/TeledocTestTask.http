@@ -1,0 +1,6 @@
+@TeledocTestTask_HostAddress = http://localhost:5185
+
+GET {{TeledocTestTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
